@@ -12,7 +12,7 @@ notifications:
 matrix:
   include:
     - os: linux
-      dist: xenial
+      dist: bionic
       language: python
       python: 2.7
 
